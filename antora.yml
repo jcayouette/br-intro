@@ -9,5 +9,3 @@ asciidoc:
 
 nav:
 - modules/ROOT/nav.adoc
-- modules/quickstart/nav.adoc
-- modules/archeology/nav.adoc
