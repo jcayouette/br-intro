@@ -1,2 +1,4 @@
 * xref:index.adoc[Introduction]
 * xref:start-here.adoc[Start here]
+* xref:archeology/index.adoc[Archeology]
+* xref:astronomy/index.adoc[Astronomy]
