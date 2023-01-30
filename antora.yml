@@ -1,4 +1,4 @@
-name: index
+name: intro-index
 title: Index
 version: 2023.01
 start_page: index.adoc
@@ -9,6 +9,4 @@ asciidoc:
 
 nav:
 - modules/ROOT/nav.adoc
-- modules/archeology/nav.adoc
-- modules/astronomy/nav.adoc
 
