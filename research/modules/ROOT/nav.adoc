@@ -1,2 +1,2 @@
 * xref:index.adoc[Introduction]
-* xref:start-here.adoc[Start here]
+* xref:start-here.adoc[Site Guidelines]
