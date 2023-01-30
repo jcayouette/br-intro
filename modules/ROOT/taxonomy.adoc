@@ -1,2 +1,2 @@
 * xref:index.adoc[Welcome]
-** xref:start-here.adoc[Start here]
+* xref:start-here.adoc[Start here]
