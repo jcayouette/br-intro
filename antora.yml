@@ -9,3 +9,6 @@ asciidoc:
 
 nav:
 - modules/ROOT/nav.adoc
+- modules/archeology/nav.adoc
+- modules/astronomy/nav.adoc
+
