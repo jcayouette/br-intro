@@ -1,5 +1,5 @@
-name: welcome
-title: Welcome
+name: index
+title: Index
 version: 2023.01
 start_page: index.adoc
 asciidoc:
