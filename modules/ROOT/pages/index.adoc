@@ -5,6 +5,7 @@
 
 image::oxen-plowing4.jpg[Plowing, 640x480]
 
+.Quote that verse!
 [quote, Romans 10:14-15]
 "How, then, can they call on the one they have not believed in? And how can they believe in the one of whom they have not heard? And how can they hear without someone preaching to them? And how can they preach unless they are sent? As it is written, "How beautiful are the feet of those who bring good news!"
 
@@ -15,6 +16,7 @@ It is my goal that these resources strengthen our faith, resolve and perseveranc
 
 image::sprout-survival.jpg[New Growth, 640x480]
 
+.Quote that verse!
 [quote, Romans 1:16]
 For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek.
 
