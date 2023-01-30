@@ -1,24 +1,3 @@
 = Quickstart to Belief and Reason
 
-Welcome to {br}! It is my goal that these resources strengthen your faith, your resolve and your perserverance in Christ our Lord. I hope these works inspire and provide you with courage when sharing the saving gospel of Jesus with those around us who have not heard or understood the message. 
-
-Do not be decieved beloved!
-Satan is ravinous, he is murderous and he is above all decietful. 
-He is at work in these last days (he does not tire) pulling the strings of puppets, desperately plotting to deliver the blind and willingly ignorant to the grave and to hell. 
-
-Let us then boldy proclaim the gospel as commanded by Christ. Let us pick up our cross and daily deny ourselves and repent: 
-
-*Repent*: _turn from all things opposed to Christ and his standards walking as we would expect someone in the kingdom of heaven to walk. Work out our salvation in fear and trembling because we owe Christ a debt that cannot be paid. Only Christ can cover us in righteousness bought by his own blood. Christ is the truth, the life and the way to God._
-
-Finally, do we run a race to come in 5th or 10th? 
-No we sprint to WIN the race set before us!
-
-image::quino-al-run.jpg[]
-
-
-
-[quote, Romans 1:16]
-For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek.
-
-[quote, Romans 10:14-15]
-"How, then, can they call on the one they have not believed in? And how can they believe in the one of whom they have not heard? And how can they hear without someone preaching to them? And how can they preach unless they are sent? As it is written, "How beautiful are the feet of those who bring good news!" (Romans 10:14-15)
+How to, and introduction to structure of documents.
