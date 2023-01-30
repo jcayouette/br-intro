@@ -8,6 +8,6 @@ asciidoc:
     table-caption: false
 
 nav:
-- modules/ROOT/taxonomy.adoc
-- modules/quickstart/taxonomy.adoc
-- modules/archeology/taxonomy.adoc
+- modules/ROOT/nav.adoc
+- modules/quickstart/nav.adoc
+- modules/archeology/nav.adoc
